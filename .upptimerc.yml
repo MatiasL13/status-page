@@ -12,7 +12,7 @@ sites:
   - name: Doctor-arganaraz
     url: http://www.doctor-arganaraz.com.ar
   - name: Animate
-    url: https://animatecompany.com.ar
+    url: http://animatesrlsistema.com.ar
   - name: sonarQ
     url: https://sonarqube.dev.securitize.io
 
