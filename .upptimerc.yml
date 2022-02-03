@@ -3,14 +3,16 @@ owner: MatiasL13 # Your GitHub organization or username, where this repository l
 repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: CasaHo
+    url: http://www.intranet-casaho.com.ar
+  - name: Moho
+    url: http://www.intranet-moho.com.ar
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Doctor-arganaraz
+    url: http://www.doctor-arganaraz.com.ar
+  - name: Animate
+    url: https://animatecompany.com.ar
   - name: sonarQ
     url: https://sonarqube.dev.securitize.io
 
