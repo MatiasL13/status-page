@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/animatesrlsistema.com.ar",
     "slug": "animate",
     "status": "down",
-    "uptime": "92.99%",
-    "uptimeDay": "92.99%",
-    "uptimeWeek": "92.99%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "92.99%",
+    "uptime": "2.87%",
+    "uptimeDay": "2.87%",
+    "uptimeWeek": "2.87%",
+    "uptimeMonth": "2.87%",
+    "uptimeYear": "2.87%",
     "time": 22900,
     "timeDay": 22900,
     "timeWeek": 22900,
     "timeMonth": 22900,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 82
     }
   },
   {
@@ -96,17 +96,19 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://favicons.githubusercontent.com/sonarqube.dev.securitize.io",
     "slug": "sonar-q",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 168,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 3900,
+    "timeDay": 3900,
+    "timeWeek": 3900,
+    "timeMonth": 3900,
+    "timeYear": 3900,
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   }
 ]
