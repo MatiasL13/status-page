@@ -58,7 +58,7 @@
     "url": "http://www.doctor-arganaraz.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.doctor-arganaraz.com.ar",
     "slug": "doctor-arganaraz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1292,
     "timeMonth": 1292,
     "timeYear": 1292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   },
   {
     "name": "Animate",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/animatesrlsistema.com.ar",
     "slug": "animate",
     "status": "down",
-    "uptime": "0.15%",
+    "uptime": "0.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 22900,
     "timeDay": 0,
     "timeWeek": 22900,
     "timeMonth": 22900,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-02-05": 18,
+      "2022-02-05": 1289,
       "2022-02-04": 1440,
       "2022-02-03": 152
     }
@@ -105,7 +107,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2198,
-    "timeDay": 1275,
+    "timeDay": 142,
     "timeWeek": 2198,
     "timeMonth": 2198,
     "timeYear": 2198,
