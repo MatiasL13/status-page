@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2325,
-    "timeDay": 1877,
-    "timeWeek": 2325,
-    "timeMonth": 2325,
-    "timeYear": 2325,
+    "time": 2227,
+    "timeDay": 1839,
+    "timeWeek": 2227,
+    "timeMonth": 2227,
+    "timeYear": 2227,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2322,
-    "timeDay": 2564,
-    "timeWeek": 2322,
-    "timeMonth": 2322,
-    "timeYear": 2322,
+    "time": 2314,
+    "timeDay": 2282,
+    "timeWeek": 2314,
+    "timeMonth": 2314,
+    "timeYear": 2314,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 332,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
+    "time": 358,
+    "timeDay": 367,
+    "timeWeek": 358,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/www.doctor-arganaraz.com.ar",
     "slug": "doctor-arganaraz",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.21%",
+    "uptimeDay": "87.68%",
+    "uptimeWeek": "94.21%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "94.21%",
     "time": 1292,
-    "timeDay": 1360,
+    "timeDay": 0,
     "timeWeek": 1292,
     "timeMonth": 1292,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-06": 26,
+      "2022-02-05": 151
     }
   },
   {
@@ -90,7 +91,8 @@
     "timeMonth": 22900,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-02-05": 1289,
+      "2022-02-06": 26,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 152
     }
@@ -106,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2198,
-    "timeDay": 142,
-    "timeWeek": 2198,
-    "timeMonth": 2198,
-    "timeYear": 2198,
+    "time": 1995,
+    "timeDay": 173,
+    "timeWeek": 1995,
+    "timeMonth": 1995,
+    "timeYear": 1995,
     "dailyMinutesDown": {}
   }
 ]
