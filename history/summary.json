@@ -50,9 +50,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 246,
     "timeMonth": 227,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Doctor-arganaraz",
@@ -111,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-07-08": 43,
+      "2022-07-08": 373,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
