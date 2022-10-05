@@ -1,7 +1,7 @@
 url: http://www.intranet-moho.com.ar
-status: down
-code: 500
-responseTime: 28476
-lastUpdated: 2022-10-05T19:55:58.227Z
+status: up
+code: 200
+responseTime: 667
+lastUpdated: 2022-10-05T20:18:26.517Z
 startTime: Thu Feb 03 2022 21:25:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
