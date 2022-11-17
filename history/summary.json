@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-11-17": 870,
+      "2022-11-17": 1024,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
       "2022-11-14": 1440,
@@ -429,17 +429,17 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
-    "uptime": "92.20%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "89.04%",
-    "uptimeMonth": "76.63%",
-    "uptimeYear": "92.20%",
-    "time": 506,
-    "timeDay": 220,
-    "timeWeek": 201,
-    "timeMonth": 249,
-    "timeYear": 506,
+    "status": "down",
+    "uptime": "92.21%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "76.75%",
+    "uptimeYear": "92.21%",
+    "time": 505,
+    "timeDay": 211,
+    "timeWeek": 191,
+    "timeMonth": 247,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2022-11-17": 45,
       "2022-11-15": 279,
@@ -509,8 +509,7 @@
       "2022-04-26": 422,
       "2022-04-20": 172,
       "2022-02-16": 784,
-      "2022-02-15": 736,
-      "2022-02-12": 19
+      "2022-02-15": 736
     }
   }
 ]
