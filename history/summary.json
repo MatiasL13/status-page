@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "up",
-    "uptime": "96.34%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "96.34%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "96.35%",
     "time": 1261,
     "timeDay": 494,
     "timeWeek": 384,
@@ -135,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 22900,
     "dailyMinutesDown": {
-      "2022-12-05": 34,
+      "2022-12-05": 1190,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
@@ -448,18 +448,19 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
-    "uptime": "92.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.01%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.08%",
-    "uptimeYear": "92.95%",
+    "uptimeMonth": "87.34%",
+    "uptimeYear": "93.01%",
     "time": 495,
     "timeDay": 313,
     "timeWeek": 247,
     "timeMonth": 220,
     "timeYear": 495,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-11-18": 187,
       "2022-11-17": 68,
       "2022-11-15": 279,
@@ -526,8 +527,7 @@
       "2022-07-20": 40,
       "2022-07-18": 404,
       "2022-05-03": 19,
-      "2022-04-26": 422,
-      "2022-04-20": 172
+      "2022-04-26": 422
     }
   }
 ]
