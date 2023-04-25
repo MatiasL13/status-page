@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1359,
-    "timeDay": 5019,
-    "timeWeek": 1458,
-    "timeMonth": 1395,
-    "timeYear": 1125,
+    "time": 1358,
+    "timeDay": 1094,
+    "timeWeek": 1527,
+    "timeMonth": 1394,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2023-03-19": 40,
       "2023-01-29": 17,
@@ -25,8 +25,7 @@
       "2022-10-05": 241,
       "2022-05-01": 82,
       "2022-04-27": 27,
-      "2022-04-26": 85,
-      "2022-04-25": 13
+      "2022-04-26": 85
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1037,
-    "timeDay": 636,
-    "timeWeek": 827,
-    "timeMonth": 1132,
+    "time": 1038,
+    "timeDay": 1054,
+    "timeWeek": 849,
+    "timeMonth": 1146,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2023-03-19": 40,
@@ -54,8 +53,7 @@
       "2022-10-05": 162,
       "2022-05-01": 82,
       "2022-04-27": 27,
-      "2022-04-26": 85,
-      "2022-04-25": 13
+      "2022-04-26": 85
     }
   },
   {
@@ -70,10 +68,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.87%",
     "time": 301,
-    "timeDay": 293,
-    "timeWeek": 289,
+    "timeDay": 188,
+    "timeWeek": 273,
     "timeMonth": 284,
-    "timeYear": 309,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-03-28": 59,
       "2023-03-27": 42,
@@ -90,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "up",
-    "uptime": "97.34%",
+    "uptime": "97.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.43%",
+    "uptimeYear": "97.56%",
     "time": 1111,
-    "timeDay": 5106,
-    "timeWeek": 1236,
-    "timeMonth": 872,
-    "timeYear": 895,
+    "timeDay": 1119,
+    "timeWeek": 1292,
+    "timeMonth": 884,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2023-02-06": 875,
       "2023-02-05": 48,
@@ -123,8 +121,7 @@
       "2022-04-30": 105,
       "2022-04-28": 133,
       "2022-04-27": 266,
-      "2022-04-26": 1440,
-      "2022-04-25": 1440
+      "2022-04-26": 1440
     }
   },
   {
@@ -144,7 +141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-24": 782,
+      "2023-04-25": 34,
+      "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -507,8 +505,7 @@
       "2022-04-29": 1440,
       "2022-04-28": 1440,
       "2022-04-27": 1440,
-      "2022-04-26": 1440,
-      "2022-04-25": 1440
+      "2022-04-26": 1440
     }
   },
   {
@@ -517,15 +514,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "94.16%",
     "time": 450,
-    "timeDay": 248,
-    "timeWeek": 294,
-    "timeMonth": 324,
+    "timeDay": 291,
+    "timeWeek": 306,
+    "timeMonth": 326,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2023-04-24": 16,
