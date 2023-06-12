@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-casaho.com.ar.ico",
     "slug": "casa-ho",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-12": 47,
+      "2023-06-12": 947,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -505,18 +505,19 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
-    "uptime": "95.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
+    "status": "down",
+    "uptime": "95.80%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "94.30%",
+    "uptimeYear": "94.31%",
     "time": 423,
-    "timeDay": 413,
-    "timeWeek": 268,
-    "timeMonth": 301,
-    "timeYear": 417,
+    "timeDay": 262,
+    "timeWeek": 255,
+    "timeMonth": 296,
+    "timeYear": 416,
     "dailyMinutesDown": {
+      "2023-06-12": 0,
       "2023-06-08": 15,
       "2023-06-05": 28,
       "2023-06-02": 20,
@@ -583,8 +584,7 @@
       "2022-07-30": 29,
       "2022-07-25": 18,
       "2022-07-23": 39,
-      "2022-07-22": 41,
-      "2022-07-20": 40
+      "2022-07-22": 41
     }
   }
 ]
