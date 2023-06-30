@@ -134,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 40,
+      "2023-06-30": 816,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -506,18 +506,19 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
-    "uptime": "95.93%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.94%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "94.30%",
+    "uptimeYear": "94.31%",
     "time": 425,
-    "timeDay": 588,
-    "timeWeek": 337,
-    "timeMonth": 312,
+    "timeDay": 420,
+    "timeWeek": 328,
+    "timeMonth": 311,
     "timeYear": 417,
     "dailyMinutesDown": {
+      "2023-06-30": 0,
       "2023-06-12": 47,
       "2023-06-08": 15,
       "2023-06-05": 28,
@@ -584,8 +585,7 @@
       "2022-08-08": 70,
       "2022-07-30": 29,
       "2022-07-25": 18,
-      "2022-07-23": 39,
-      "2022-07-22": 41
+      "2022-07-23": 39
     }
   }
 ]
