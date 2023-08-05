@@ -82,9 +82,9 @@
     "url": "http://www.doctor-arganaraz.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.23%",
@@ -94,6 +94,7 @@
     "timeMonth": 866,
     "timeYear": 760,
     "dailyMinutesDown": {
+      "2023-08-05": 0,
       "2023-06-30": 18,
       "2023-05-24": 26,
       "2023-05-19": 17,
@@ -133,7 +134,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-05": 35,
+      "2023-08-05": 736,
       "2023-08-04": 1440,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
