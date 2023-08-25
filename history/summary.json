@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1069,
-    "timeDay": 530,
-    "timeWeek": 2197,
-    "timeMonth": 1058,
-    "timeYear": 1164,
+    "time": 1072,
+    "timeDay": 1993,
+    "timeWeek": 2247,
+    "timeMonth": 1097,
+    "timeYear": 1167,
     "dailyMinutesDown": {
       "2023-03-19": 40,
       "2023-01-29": 17,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 760,
-    "timeDay": 820,
-    "timeWeek": 816,
-    "timeMonth": 758,
-    "timeYear": 814,
+    "timeDay": 657,
+    "timeWeek": 783,
+    "timeMonth": 745,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2023-03-19": 40,
       "2023-01-29": 16,
@@ -56,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 300,
-    "timeDay": 278,
-    "timeWeek": 243,
-    "timeMonth": 294,
+    "time": 301,
+    "timeDay": 277,
+    "timeWeek": 259,
+    "timeMonth": 289,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-06-29": 18,
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "97.68%",
-    "time": 1016,
-    "timeDay": 385,
-    "timeWeek": 569,
-    "timeMonth": 631,
-    "timeYear": 750,
+    "time": 1014,
+    "timeDay": 435,
+    "timeWeek": 482,
+    "timeMonth": 642,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2023-08-07": 763,
       "2023-08-06": 1440,
@@ -136,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 29,
+      "2023-08-25": 29,
+      "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
@@ -499,8 +500,7 @@
       "2022-08-29": 1440,
       "2022-08-28": 1440,
       "2022-08-27": 1440,
-      "2022-08-26": 1440,
-      "2022-08-25": 1440
+      "2022-08-26": 1440
     }
   },
   {
@@ -515,9 +515,9 @@
     "uptimeMonth": "98.88%",
     "uptimeYear": "93.48%",
     "time": 405,
-    "timeDay": 274,
-    "timeWeek": 347,
-    "timeMonth": 306,
+    "timeDay": 282,
+    "timeWeek": 334,
+    "timeMonth": 308,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2023-08-08": 15,
@@ -588,8 +588,7 @@
       "2022-09-04": 35,
       "2022-09-02": 17,
       "2022-08-28": 16,
-      "2022-08-26": 39,
-      "2022-08-25": 36
+      "2022-08-26": 39
     }
   }
 ]
