@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1072,
-    "timeDay": 1993,
-    "timeWeek": 2247,
-    "timeMonth": 1097,
-    "timeYear": 1167,
+    "timeDay": 543,
+    "timeWeek": 2223,
+    "timeMonth": 1077,
+    "timeYear": 1168,
     "dailyMinutesDown": {
       "2023-03-19": 40,
       "2023-01-29": 17,
@@ -36,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 760,
-    "timeDay": 657,
-    "timeWeek": 783,
-    "timeMonth": 745,
+    "time": 755,
+    "timeDay": 529,
+    "timeWeek": 781,
+    "timeMonth": 723,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2023-03-19": 40,
@@ -62,9 +62,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 301,
-    "timeDay": 277,
-    "timeWeek": 259,
-    "timeMonth": 289,
+    "timeDay": 243,
+    "timeWeek": 261,
+    "timeMonth": 298,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-06-29": 18,
@@ -83,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "97.68%",
     "time": 1014,
-    "timeDay": 435,
-    "timeWeek": 482,
-    "timeMonth": 642,
+    "timeDay": 366,
+    "timeWeek": 497,
+    "timeMonth": 634,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2023-08-07": 763,
@@ -136,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 29,
+      "2023-08-26": 28,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -499,8 +500,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -509,16 +509,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "95.80%",
+    "uptime": "95.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
-    "uptimeYear": "93.48%",
+    "uptimeYear": "93.49%",
     "time": 405,
-    "timeDay": 282,
-    "timeWeek": 334,
-    "timeMonth": 308,
-    "timeYear": 314,
+    "timeDay": 298,
+    "timeWeek": 337,
+    "timeMonth": 306,
+    "timeYear": 304,
     "dailyMinutesDown": {
       "2023-08-08": 15,
       "2023-08-07": 110,
@@ -587,8 +587,7 @@
       "2022-09-05": 453,
       "2022-09-04": 35,
       "2022-09-02": 17,
-      "2022-08-28": 16,
-      "2022-08-26": 39
+      "2022-08-28": 16
     }
   }
 ]
