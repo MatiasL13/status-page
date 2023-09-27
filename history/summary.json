@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1070,
-    "timeDay": 1148,
-    "timeWeek": 939,
-    "timeMonth": 768,
-    "timeYear": 1173,
+    "time": 1078,
+    "timeDay": 4218,
+    "timeWeek": 1359,
+    "timeMonth": 884,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2023-03-19": 40,
       "2023-01-29": 17,
@@ -37,9 +37,9 @@
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.67%",
     "time": 789,
-    "timeDay": 911,
-    "timeWeek": 1371,
-    "timeMonth": 1110,
+    "timeDay": 483,
+    "timeWeek": 1264,
+    "timeMonth": 1108,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2023-09-22": 551,
@@ -63,10 +63,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 294,
-    "timeDay": 154,
-    "timeWeek": 227,
-    "timeMonth": 274,
+    "time": 295,
+    "timeDay": 391,
+    "timeWeek": 267,
+    "timeMonth": 269,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-09-13": 20,
@@ -87,17 +87,16 @@
     "slug": "doctor-arganaraz",
     "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "97.70%",
-    "time": 945,
-    "timeDay": 357,
-    "timeWeek": 565,
-    "timeMonth": 823,
-    "timeYear": 756,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "97.71%",
+    "time": 942,
+    "timeDay": 245,
+    "timeWeek": 540,
+    "timeMonth": 828,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2023-09-26": 8,
       "2023-09-14": 38,
       "2023-08-07": 763,
       "2023-08-06": 1440,
@@ -140,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-26": 1248,
+      "2023-09-27": 31,
+      "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -503,8 +503,7 @@
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
-      "2022-09-28": 1440,
-      "2022-09-27": 1440
+      "2022-09-28": 1440
     }
   },
   {
@@ -517,11 +516,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "95.98%",
+    "uptimeYear": "96.03%",
     "time": 355,
-    "timeDay": 546,
-    "timeWeek": 378,
-    "timeMonth": 349,
+    "timeDay": 137,
+    "timeWeek": 340,
+    "timeMonth": 341,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-09-14": 26,
@@ -574,8 +573,7 @@
       "2022-10-01": 34,
       "2022-09-30": 916,
       "2022-09-29": 1440,
-      "2022-09-28": 1440,
-      "2022-09-27": 1440
+      "2022-09-28": 1440
     }
   }
 ]
