@@ -4,17 +4,17 @@
     "url": "http://www.intranet-casaho.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-casaho.com.ar.ico",
     "slug": "casa-ho",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
     "uptimeDay": "98.80%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 1079,
-    "timeDay": 2341,
-    "timeWeek": 1247,
-    "timeMonth": 872,
-    "timeYear": 1177,
+    "time": 1077,
+    "timeDay": 369,
+    "timeWeek": 1075,
+    "timeMonth": 850,
+    "timeYear": 1176,
     "dailyMinutesDown": {
       "2023-09-27": 17,
       "2023-03-19": 40,
@@ -38,10 +38,10 @@
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.67%",
     "time": 789,
-    "timeDay": 483,
-    "timeWeek": 1264,
-    "timeMonth": 1108,
-    "timeYear": 875,
+    "timeDay": 574,
+    "timeWeek": 1237,
+    "timeMonth": 1110,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2023-09-22": 551,
       "2023-09-21": 876,
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 295,
-    "timeDay": 391,
-    "timeWeek": 267,
-    "timeMonth": 269,
+    "timeDay": 410,
+    "timeWeek": 310,
+    "timeMonth": 270,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2023-09-13": 20,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.71%",
-    "time": 942,
-    "timeDay": 245,
-    "timeWeek": 540,
-    "timeMonth": 828,
-    "timeYear": 757,
+    "time": 941,
+    "timeDay": 832,
+    "timeWeek": 562,
+    "timeMonth": 725,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-09-14": 38,
       "2023-08-07": 763,
@@ -140,7 +140,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-27": 866,
+      "2023-09-28": 30,
+      "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
@@ -503,8 +504,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   },
   {
@@ -517,12 +517,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "96.19%",
-    "time": 355,
-    "timeDay": 137,
-    "timeWeek": 340,
-    "timeMonth": 341,
-    "timeYear": 285,
+    "uptimeYear": "96.30%",
+    "time": 354,
+    "timeDay": 163,
+    "timeWeek": 305,
+    "timeMonth": 334,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2023-09-14": 26,
       "2023-08-08": 15,
@@ -573,8 +573,7 @@
       "2022-10-12": 66,
       "2022-10-01": 34,
       "2022-09-30": 916,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   }
 ]
