@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
-    "time": 1088,
-    "timeDay": 441,
-    "timeWeek": 1500,
-    "timeMonth": 967,
-    "timeYear": 1185,
+    "time": 1089,
+    "timeDay": 933,
+    "timeWeek": 1135,
+    "timeMonth": 943,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2023-09-27": 17,
       "2023-03-19": 40,
@@ -37,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.74%",
     "uptimeYear": "99.67%",
-    "time": 797,
-    "timeDay": 784,
-    "timeWeek": 1072,
-    "timeMonth": 1143,
-    "timeYear": 889,
+    "time": 798,
+    "timeDay": 682,
+    "timeWeek": 1101,
+    "timeMonth": 999,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2023-09-22": 551,
       "2023-09-21": 876,
@@ -65,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 297,
-    "timeDay": 437,
+    "timeDay": 394,
     "timeWeek": 419,
-    "timeMonth": 291,
+    "timeMonth": 294,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2023-09-13": 20,
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.71%",
-    "time": 821,
-    "timeDay": 400,
-    "timeWeek": 375,
-    "timeMonth": 675,
-    "timeYear": 756,
+    "time": 783,
+    "timeDay": 790,
+    "timeWeek": 472,
+    "timeMonth": 679,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-09-14": 38,
       "2023-08-07": 763,
@@ -119,8 +119,7 @@
       "2022-11-04": 960,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1384,
-      "2022-10-04": 77
+      "2022-11-01": 1384
     }
   },
   {
@@ -140,7 +139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 31,
+      "2023-10-04": 31,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -503,8 +503,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -513,15 +512,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "97.02%",
-    "time": 354,
-    "timeDay": 241,
-    "timeWeek": 209,
-    "timeMonth": 317,
+    "time": 355,
+    "timeDay": 267,
+    "timeWeek": 227,
+    "timeMonth": 315,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-09-14": 26,
