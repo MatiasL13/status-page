@@ -1,7 +1,7 @@
 url: http://www.intranet-casaho.com.ar
-status: up
-code: 200
-responseTime: 495
-lastUpdated: 2024-04-26T23:15:50.866Z
+status: down
+code: 500
+responseTime: 23685
+lastUpdated: 2024-04-27T06:49:57.037Z
 startTime: 2022-02-03T21:25:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
