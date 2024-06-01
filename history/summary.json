@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1078,
-    "timeDay": 341,
-    "timeWeek": 679,
-    "timeMonth": 825,
+    "timeDay": 429,
+    "timeWeek": 593,
+    "timeMonth": 831,
     "timeYear": 1085,
     "dailyMinutesDown": {
       "2024-04-29": 60,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 823,
-    "timeDay": 554,
-    "timeWeek": 671,
-    "timeMonth": 774,
-    "timeYear": 831,
+    "timeDay": 590,
+    "timeWeek": 656,
+    "timeMonth": 786,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2023-10-12": 439,
       "2023-09-22": 551,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 396,
-    "timeDay": 349,
-    "timeWeek": 216,
-    "timeMonth": 293,
+    "timeDay": 361,
+    "timeWeek": 249,
+    "timeMonth": 291,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2024-04-26": 16,
@@ -71,8 +71,7 @@
       "2023-10-11": 21,
       "2023-10-07": 15,
       "2023-09-13": 20,
-      "2023-06-29": 18,
-      "2023-06-02": 16
+      "2023-06-29": 18
     }
   },
   {
@@ -86,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "98.88%",
-    "time": 734,
-    "timeDay": 435,
-    "timeWeek": 578,
-    "timeMonth": 762,
+    "time": 733,
+    "timeDay": 364,
+    "timeWeek": 556,
+    "timeMonth": 768,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2024-05-06": 766,
@@ -126,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-31": 34,
+      "2024-06-01": 37,
+      "2024-05-31": 1440,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
@@ -489,8 +489,7 @@
       "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
-      "2023-06-03": 1440,
-      "2023-06-02": 1440
+      "2023-06-03": 1440
     }
   },
   {
@@ -499,15 +498,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "97.08%",
     "time": 324,
-    "timeDay": 312,
-    "timeWeek": 407,
-    "timeMonth": 647,
+    "timeDay": 165,
+    "timeWeek": 376,
+    "timeMonth": 643,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2024-05-17": 1027,
@@ -557,8 +556,7 @@
       "2023-06-30": 504,
       "2023-06-12": 47,
       "2023-06-08": 15,
-      "2023-06-05": 28,
-      "2023-06-02": 20
+      "2023-06-05": 28
     }
   }
 ]
