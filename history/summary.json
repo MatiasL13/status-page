@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1087,
-    "timeDay": 817,
-    "timeWeek": 819,
-    "timeMonth": 935,
-    "timeYear": 1074,
+    "timeDay": 474,
+    "timeWeek": 744,
+    "timeMonth": 921,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2024-04-29": 60,
       "2024-04-28": 17,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 836,
-    "timeDay": 1083,
-    "timeWeek": 823,
-    "timeMonth": 702,
-    "timeYear": 817,
+    "timeDay": 535,
+    "timeWeek": 851,
+    "timeMonth": 703,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2023-10-12": 439,
       "2023-09-22": 551,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 395,
-    "timeDay": 126,
-    "timeWeek": 238,
-    "timeMonth": 284,
+    "timeDay": 416,
+    "timeWeek": 235,
+    "timeMonth": 288,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2024-04-26": 16,
@@ -79,15 +79,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.88%",
     "time": 724,
-    "timeDay": 516,
-    "timeWeek": 438,
-    "timeMonth": 482,
+    "timeDay": 607,
+    "timeWeek": 495,
+    "timeMonth": 487,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2024-05-06": 766,
@@ -123,7 +123,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-01": 41,
+      "2024-07-02": 36,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -486,8 +487,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440
+      "2023-07-04": 1440
     }
   },
   {
@@ -500,11 +500,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.21%",
+    "uptimeYear": "97.48%",
     "time": 326,
-    "timeDay": 521,
-    "timeWeek": 384,
-    "timeMonth": 318,
+    "timeDay": 386,
+    "timeWeek": 396,
+    "timeMonth": 324,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2024-05-17": 1027,
@@ -547,8 +547,7 @@
       "2023-07-28": 16,
       "2023-07-17": 21,
       "2023-07-13": 19,
-      "2023-07-05": 24,
-      "2023-07-03": 986
+      "2023-07-05": 24
     }
   }
 ]
