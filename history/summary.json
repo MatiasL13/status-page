@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1038,
-    "timeDay": 827,
-    "timeWeek": 947,
-    "timeMonth": 946,
-    "timeYear": 1061,
+    "timeDay": 1202,
+    "timeWeek": 998,
+    "timeMonth": 943,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2024-04-29": 60,
       "2024-04-28": 17,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 797,
-    "timeDay": 848,
-    "timeWeek": 642,
-    "timeMonth": 718,
-    "timeYear": 807,
+    "timeDay": 751,
+    "timeWeek": 662,
+    "timeMonth": 715,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2023-10-12": 439,
       "2023-09-22": 551,
@@ -56,9 +56,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
     "time": 389,
-    "timeDay": 144,
-    "timeWeek": 273,
-    "timeMonth": 297,
+    "timeDay": 113,
+    "timeWeek": 269,
+    "timeMonth": 296,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2024-08-17": 15,
@@ -86,10 +86,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 672,
-    "timeDay": 730,
-    "timeWeek": 468,
-    "timeMonth": 525,
-    "timeYear": 643,
+    "timeDay": 567,
+    "timeWeek": 477,
+    "timeMonth": 526,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2024-05-06": 766,
       "2024-05-05": 414,
@@ -121,7 +121,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-22": 38,
+      "2024-08-23": 37,
+      "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -484,8 +485,7 @@
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
-      "2023-08-25": 1440,
-      "2023-08-24": 1440
+      "2023-08-25": 1440
     }
   },
   {
@@ -500,8 +500,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.04%",
     "time": 327,
-    "timeDay": 465,
-    "timeWeek": 351,
+    "timeDay": 478,
+    "timeWeek": 354,
     "timeMonth": 356,
     "timeYear": 334,
     "dailyMinutesDown": {
