@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 1016,
     "timeDay": 344,
     "timeWeek": 1273,
     "timeMonth": 761,
-    "timeYear": 1000,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2024-04-29": 60,
       "2024-04-28": 17
@@ -25,18 +25,20 @@
     "url": "http://www.intranet-moho.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 761,
+    "uptimeYear": "100.00%",
+    "time": 760,
     "timeDay": 397,
     "timeWeek": 349,
     "timeMonth": 311,
-    "timeYear": 717,
-    "dailyMinutesDown": {}
+    "timeYear": 704,
+    "dailyMinutesDown": {
+      "2024-10-12": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -71,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "up",
-    "uptime": "98.37%",
+    "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -110,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-12": 41,
+      "2024-10-12": 1278,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -483,7 +485,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
