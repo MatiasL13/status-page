@@ -1,7 +1,7 @@
 url: http://www.doctor-arganaraz.com.ar
-status: up
-code: 200
-responseTime: 201
-lastUpdated: 2025-02-06T13:28:00.011Z
+status: down
+code: 500
+responseTime: 3469
+lastUpdated: 2025-02-06T13:39:53.981Z
 startTime: 2022-02-03T21:25:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
