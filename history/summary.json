@@ -11,9 +11,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
     "time": 917,
-    "timeDay": 1229,
-    "timeWeek": 599,
-    "timeMonth": 744,
+    "timeDay": 777,
+    "timeWeek": 581,
+    "timeMonth": 756,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-03-22": 40,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "85.05%",
+    "uptime": "85.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.25%",
+    "uptimeYear": "53.11%",
     "time": 695,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 638,
+    "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-04-01": 779,
+      "2025-04-02": 47,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -226,10 +227,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 318,
-    "timeDay": 112,
-    "timeWeek": 301,
-    "timeMonth": 300,
+    "time": 317,
+    "timeDay": 138,
+    "timeWeek": 307,
+    "timeMonth": 290,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2024-08-17": 15,
@@ -248,10 +249,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.69%",
     "time": 550,
-    "timeDay": 566,
-    "timeWeek": 358,
-    "timeMonth": 565,
-    "timeYear": 530,
+    "timeDay": 529,
+    "timeWeek": 352,
+    "timeMonth": 549,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-03-03": 18,
       "2025-02-06": 312,
@@ -277,7 +278,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-01": 779,
+      "2025-04-02": 47,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -640,8 +642,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -651,15 +652,15 @@
     "slug": "sonar-q",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "23.96%",
-    "uptimeWeek": "61.39%",
+    "uptimeDay": "49.17%",
+    "uptimeWeek": "61.56%",
     "uptimeMonth": "86.98%",
     "uptimeYear": "98.63%",
     "time": 337,
-    "timeDay": 297,
-    "timeWeek": 261,
-    "timeMonth": 302,
-    "timeYear": 352,
+    "timeDay": 338,
+    "timeWeek": 248,
+    "timeMonth": 303,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2025-04-01": 779,
       "2025-03-31": 316,
@@ -679,8 +680,7 @@
       "2024-04-08": 87,
       "2024-04-05": 103,
       "2024-04-04": 64,
-      "2024-04-03": 59,
-      "2024-04-02": 16
+      "2024-04-03": 59
     }
   }
 ]
