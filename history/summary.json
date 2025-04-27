@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 903,
     "timeDay": 718,
-    "timeWeek": 810,
+    "timeWeek": 822,
     "timeMonth": 921,
     "timeYear": 891,
     "dailyMinutesDown": {
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "83.22%",
+    "uptime": "83.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "46.28%",
+    "uptimeYear": "46.26%",
     "time": 667,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2025-04-26": 1400,
+      "2025-04-27": 52,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -253,7 +254,7 @@
     "uptimeYear": "100.00%",
     "time": 316,
     "timeDay": 233,
-    "timeWeek": 314,
+    "timeWeek": 336,
     "timeMonth": 254,
     "timeYear": 305,
     "dailyMinutesDown": {
@@ -273,7 +274,7 @@
     "uptimeYear": "99.03%",
     "time": 531,
     "timeDay": 465,
-    "timeWeek": 361,
+    "timeWeek": 344,
     "timeMonth": 447,
     "timeYear": 531,
     "dailyMinutesDown": {
@@ -304,7 +305,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 1400,
+      "2025-04-27": 53,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -667,8 +669,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   },
   {
@@ -684,7 +685,7 @@
     "uptimeYear": "98.49%",
     "time": 357,
     "timeDay": 321,
-    "timeWeek": 335,
+    "timeWeek": 325,
     "timeMonth": 396,
     "timeYear": 371,
     "dailyMinutesDown": {
