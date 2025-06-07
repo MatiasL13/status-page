@@ -1,7 +1,7 @@
 url: https://sonarqube.dev.securitize.io
-status: down
-code: 502
-responseTime: 361
-lastUpdated: 2025-06-07T05:47:09.705Z
+status: up
+code: 200
+responseTime: 438
+lastUpdated: 2025-06-07T05:56:39.698Z
 startTime: 2022-02-03T21:21:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
