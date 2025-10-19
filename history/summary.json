@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.43%",
-    "time": 1127,
-    "timeDay": 1038,
-    "timeWeek": 807,
-    "timeMonth": 1607,
-    "timeYear": 1237,
+    "time": 1128,
+    "timeDay": 1245,
+    "timeWeek": 848,
+    "timeMonth": 1632,
+    "timeYear": 1240,
     "dailyMinutesDown": {
       "2025-10-08": 39,
       "2025-10-04": 30,
@@ -44,18 +44,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "72.49%",
+    "uptime": "72.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 559,
+    "time": 554,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 324,
+      "2025-10-19": 54,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -418,8 +419,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -434,8 +434,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 95,
-    "timeWeek": 246,
+    "timeDay": 370,
+    "timeWeek": 282,
     "timeMonth": 263,
     "timeYear": 306,
     "dailyMinutesDown": {}
@@ -451,10 +451,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
-    "time": 511,
-    "timeDay": 560,
-    "timeWeek": 570,
-    "timeMonth": 592,
+    "time": 510,
+    "timeDay": 280,
+    "timeWeek": 516,
+    "timeMonth": 587,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-04-07": 786,
@@ -482,7 +482,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-18": 324,
+      "2025-10-19": 54,
+      "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
@@ -845,8 +846,7 @@
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
-      "2024-10-20": 1440,
-      "2024-10-19": 1440
+      "2024-10-20": 1440
     }
   },
   {
@@ -856,13 +856,13 @@
     "slug": "sonar-q",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "93.65%",
+    "uptimeDay": "96.03%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "82.68%",
+    "uptimeMonth": "85.35%",
     "uptimeYear": "96.77%",
     "time": 353,
-    "timeDay": 274,
-    "timeWeek": 342,
+    "timeDay": 265,
+    "timeWeek": 324,
     "timeMonth": 357,
     "timeYear": 354,
     "dailyMinutesDown": {
