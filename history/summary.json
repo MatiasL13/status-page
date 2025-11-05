@@ -4,9 +4,9 @@
     "url": "http://www.intranet-casaho.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-casaho.com.ar.ico",
     "slug": "casa-ho",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 1147,
     "timeYear": 1237,
     "dailyMinutesDown": {
+      "2025-11-05": 0,
       "2025-11-03": 23,
       "2025-11-02": 75,
       "2025-11-01": 8,
@@ -60,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 52,
+      "2025-11-05": 170,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
@@ -487,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-05": 52,
+      "2025-11-05": 170,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
