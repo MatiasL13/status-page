@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.33%",
-    "time": 1169,
-    "timeDay": 519,
-    "timeWeek": 1393,
-    "timeMonth": 1129,
-    "timeYear": 1258,
+    "time": 1170,
+    "timeDay": 1293,
+    "timeWeek": 1408,
+    "timeMonth": 1139,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-11-12": 20,
       "2025-11-05": 62,
@@ -51,18 +51,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "71.08%",
+    "uptime": "71.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 517,
+    "time": 519,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 51,
+      "2025-11-15": 50,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -425,8 +426,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   },
   {
@@ -441,10 +441,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 537,
-    "timeWeek": 304,
+    "timeDay": 117,
+    "timeWeek": 297,
     "timeMonth": 286,
-    "timeYear": 303,
+    "timeYear": 302,
     "dailyMinutesDown": {}
   },
   {
@@ -459,10 +459,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 563,
-    "timeDay": 255,
-    "timeWeek": 634,
-    "timeMonth": 1271,
-    "timeYear": 574,
+    "timeDay": 619,
+    "timeWeek": 642,
+    "timeMonth": 1251,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-04-07": 786,
       "2025-04-06": 1440,
@@ -489,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 52,
+      "2025-11-15": 50,
+      "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2025-11-12": 1440,
       "2025-11-11": 1440,
@@ -852,8 +853,7 @@
       "2024-11-19": 1440,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
-      "2024-11-16": 1440,
-      "2024-11-15": 1440
+      "2024-11-16": 1440
     }
   },
   {
@@ -862,14 +862,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "91.88%",
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "96.69%",
     "time": 353,
-    "timeDay": 306,
-    "timeWeek": 332,
+    "timeDay": 461,
+    "timeWeek": 328,
     "timeMonth": 329,
     "timeYear": 354,
     "dailyMinutesDown": {
