@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.30%",
-    "time": 1150,
-    "timeDay": 774,
-    "timeWeek": 849,
-    "timeMonth": 1600,
-    "timeYear": 1308,
+    "time": 1151,
+    "timeDay": 841,
+    "timeWeek": 899,
+    "timeMonth": 1604,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2025-11-19": 87,
       "2025-11-15": 53,
@@ -53,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "69.97%",
+    "uptime": "69.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 50,
+      "2025-12-07": 58,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -427,8 +428,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -442,10 +442,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 430,
-    "timeWeek": 266,
-    "timeMonth": 302,
+    "time": 305,
+    "timeDay": 88,
+    "timeWeek": 237,
+    "timeMonth": 297,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -461,10 +461,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
     "time": 554,
-    "timeDay": 322,
-    "timeWeek": 424,
-    "timeMonth": 450,
-    "timeYear": 572,
+    "timeDay": 587,
+    "timeWeek": 477,
+    "timeMonth": 452,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-04-07": 786,
       "2025-04-06": 1440,
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 50,
+      "2025-12-07": 58,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -854,8 +855,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -869,10 +869,10 @@
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "96.65%",
-    "time": 352,
-    "timeDay": 421,
-    "timeWeek": 394,
-    "timeMonth": 351,
+    "time": 351,
+    "timeDay": 430,
+    "timeWeek": 406,
+    "timeMonth": 350,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-12-02": 25,
