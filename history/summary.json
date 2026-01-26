@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.24%",
     "time": 1233,
-    "timeDay": 5553,
-    "timeWeek": 1615,
-    "timeMonth": 1723,
+    "timeDay": 458,
+    "timeWeek": 1879,
+    "timeMonth": 1708,
     "timeYear": 1418,
     "dailyMinutesDown": {
       "2026-01-19": 44,
@@ -60,18 +60,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "67.56%",
+    "uptime": "67.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 311,
+    "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 62,
+      "2026-01-26": 61,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -434,8 +435,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -450,9 +450,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 358,
-    "timeWeek": 260,
-    "timeMonth": 231,
+    "timeDay": 368,
+    "timeWeek": 265,
+    "timeMonth": 237,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -467,11 +467,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
-    "time": 567,
-    "timeDay": 528,
-    "timeWeek": 467,
-    "timeMonth": 662,
-    "timeYear": 594,
+    "time": 566,
+    "timeDay": 261,
+    "timeWeek": 428,
+    "timeMonth": 647,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2025-04-07": 786,
       "2025-04-06": 1440,
@@ -498,7 +498,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 62,
+      "2026-01-26": 61,
+      "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -861,8 +862,7 @@
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
-      "2025-01-27": 1440,
-      "2025-01-26": 1440
+      "2025-01-27": 1440
     }
   },
   {
@@ -877,9 +877,9 @@
     "uptimeMonth": "97.38%",
     "uptimeYear": "96.40%",
     "time": 352,
-    "timeDay": 242,
-    "timeWeek": 357,
-    "timeMonth": 376,
+    "timeDay": 162,
+    "timeWeek": 350,
+    "timeMonth": 372,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2026-01-15": 98,
