@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2026-03-13": 1024,
+      "2026-03-13": 1069,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-13": 1024,
+      "2026-03-13": 1069,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-13": 1024,
+      "2026-03-13": 1069,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -900,16 +900,16 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "97.21%",
+    "uptimeDay": "97.19%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "96.63%",
+    "uptimeYear": "96.64%",
     "time": 347,
-    "timeDay": 315,
-    "timeWeek": 262,
-    "timeMonth": 285,
+    "timeDay": 276,
+    "timeWeek": 253,
+    "timeMonth": 281,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2026-03-13": 40,
@@ -999,7 +999,7 @@
       "2025-03-25": 18,
       "2025-03-21": 23,
       "2025-03-19": 277,
-      "2025-03-18": 108
+      "2025-03-18": 89
     }
   }
 ]
