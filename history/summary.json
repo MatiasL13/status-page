@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-casaho.com.ar.ico",
     "slug": "casa-ho",
     "status": "down",
-    "uptime": "97.28%",
+    "uptime": "97.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "89.07%",
+    "uptimeYear": "88.80%",
     "time": 1278,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1467,
+    "timeYear": 1470,
     "dailyMinutesDown": {
-      "2026-03-17": 68,
+      "2026-03-18": 73,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -97,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "65.26%",
+    "uptime": "65.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -108,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 68,
+      "2026-03-18": 73,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -471,8 +473,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -486,10 +487,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 441,
-    "timeWeek": 315,
-    "timeMonth": 240,
+    "time": 296,
+    "timeDay": 241,
+    "timeWeek": 281,
+    "timeMonth": 245,
     "timeYear": 293,
     "dailyMinutesDown": {}
   },
@@ -505,10 +506,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 596,
-    "timeDay": 293,
-    "timeWeek": 456,
-    "timeMonth": 875,
-    "timeYear": 620,
+    "timeDay": 626,
+    "timeWeek": 500,
+    "timeMonth": 823,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-04-07": 786,
       "2025-04-06": 1440,
@@ -532,7 +533,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-17": 68,
+      "2026-03-18": 73,
+      "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
       "2026-03-14": 1440,
@@ -895,8 +897,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
-      "2025-03-19": 1440,
-      "2025-03-18": 1440
+      "2025-03-19": 1440
     }
   },
   {
@@ -911,10 +912,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "96.63%",
     "time": 347,
-    "timeDay": 286,
-    "timeWeek": 307,
+    "timeDay": 342,
+    "timeWeek": 323,
     "timeMonth": 296,
-    "timeYear": 350,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2026-03-13": 74,
       "2026-03-09": 39,
@@ -1002,8 +1003,7 @@
       "2025-03-26": 22,
       "2025-03-25": 18,
       "2025-03-21": 23,
-      "2025-03-19": 277,
-      "2025-03-18": 89
+      "2025-03-19": 277
     }
   }
 ]
