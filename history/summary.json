@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-casaho.com.ar.ico",
     "slug": "casa-ho",
     "status": "down",
-    "uptime": "95.90%",
+    "uptime": "95.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.15%",
+    "uptimeYear": "83.10%",
     "time": 1294,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2026-04-07": 1000,
+      "2026-04-07": 1224,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -117,7 +117,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.intranet-moho.com.ar.ico",
     "slug": "moho",
     "status": "down",
-    "uptime": "64.34%",
+    "uptime": "64.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 1000,
+      "2026-04-07": 1224,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -519,18 +519,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.doctor-arganaraz.com.ar.ico",
     "slug": "doctor-arganaraz",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.76%",
+    "uptimeDay": "84.45%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.96%",
     "time": 605,
     "timeDay": 287,
     "timeWeek": 476,
     "timeMonth": 713,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2026-04-07": 0
+      "2026-04-07": 224
     }
   },
   {
@@ -550,7 +550,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-07": 1000,
+      "2026-04-07": 1224,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -922,18 +922,19 @@
     "url": "https://sonarqube.dev.securitize.io",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.dev.securitize.io.ico",
     "slug": "sonar-q",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "97.29%",
     "time": 357,
-    "timeDay": 176,
-    "timeWeek": 284,
-    "timeMonth": 444,
+    "timeDay": 161,
+    "timeWeek": 270,
+    "timeMonth": 440,
     "timeYear": 365,
     "dailyMinutesDown": {
+      "2026-04-07": 0,
       "2026-04-03": 45,
       "2026-03-28": 79,
       "2026-03-27": 173,
@@ -1014,7 +1015,7 @@
       "2025-04-14": 123,
       "2025-04-13": 24,
       "2025-04-11": 81,
-      "2025-04-10": 112
+      "2025-04-10": 92
     }
   }
 ]
